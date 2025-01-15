@@ -8,7 +8,7 @@
 
 ### Peer Review
 
-**Reviewer**
+**Reviewer**: Bowen Henry
 
 
-**Reviewer Notes**
+**Reviewer Notes**: Code looks good and it works, so good job!
