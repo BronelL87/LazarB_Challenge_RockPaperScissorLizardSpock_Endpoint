@@ -13,7 +13,7 @@ namespace LazarB_Challenge_RockPaperScissorLizardSpock_Endpoint.Controllers
             _cpuChoiceServices = cpuChoiceServices;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("CpuDecision")]
 
         public string CpuDesicion(){
