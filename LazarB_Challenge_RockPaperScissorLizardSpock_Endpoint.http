@@ -1,0 +1,6 @@
+@LazarB_Challenge_RockPaperScissorLizardSpock_Endpoint_HostAddress = http://localhost:5003
+
+GET {{LazarB_Challenge_RockPaperScissorLizardSpock_Endpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
